@@ -4,7 +4,7 @@ Gwapo | Bobo sa Programming | Learner
 
 🌟 **Thanks AI.**  
 💡 Passionate about web development & mobile apps.
-
+<div align="center"> <!-- Animated boy playing computer --> <img src="https://i.imgur.com/6b6cJHc.gif" width="420" alt="boy playing computer animation"/> </div>
 ---
 
 ### 🚀 Socials

@@ -1,13 +1,33 @@
 # Hi, I'm Yujin Wahing 👋  
-Tech Enthusiast | Programmer | Learner  
+Gwapo| Hambog | Dakog ot3n
 
 <div align="center">
-  <!-- Working animated boy at computer -->
-  <img src="https://i.imgur.com/5qV8w9S.gif
-" width="420" alt="boy playing computer animation"/>
+  <!-- Animated laptop (guaranteed to render) -->
+  <img alt="laptop typing animation"
+       src="data:image/svg+xml;utf8,
+       <svg xmlns='http://www.w3.org/2000/svg' width='420' height='160' viewBox='0 0 420 160'>
+         <rect x='20' y='20' rx='12' ry='12' width='380' height='90' fill='%23111' />
+         <rect x='40' y='60' width='340' height='6' fill='%23333' rx='3' />
+         <rect x='40' y='76' width='340' height='6' fill='%23333' rx='3' />
+         <rect x='40' y='92' width='340' height='6' fill='%23333' rx='3' />
+         <rect x='120' y='115' width='180' height='18' rx='6' fill='%23222' />
+         <rect x='130' y='120' width='160' height='6' rx='3' fill='%23444' />
+         <g transform='translate(90,40)'>
+           <circle cx='60' cy='20' r='6' fill='%23ffd54f'>
+             <animate attributeName='r' values='4;8;4' dur='1s' repeatCount='indefinite' />
+           </circle>
+           <circle cx='100' cy='20' r='6' fill='%23ffd54f'>
+             <animate attributeName='r' values='4;8;4' dur='1s' begin='0.2s' repeatCount='indefinite' />
+           </circle>
+           <circle cx='140' cy='20' r='6' fill='%23ffd54f'>
+             <animate attributeName='r' values='4;8;4' dur='1s' begin='0.4s' repeatCount='indefinite' />
+           </circle>
+         </g>
+       </svg>" />
 </div>
 
-🌟 **Grinding my way into tech.**  
+
+🌟 **Thansk AI**  
 💡 Passionate about web development & mobile apps.
 
 ---

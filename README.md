@@ -1,12 +1,10 @@
 
-<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+
 # Hi, I'm Yujin Wahing 👋  
 Gwapo| Hambog | Dakog ot3n
 
 <div align="center">
-  <!-- Working animated boy at computer -->
-  <img src="https://i.imgur.com/5qV8w9S.gif
-" width="420" alt="boy playing computer animation"/>
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
 
 🌟 **Thansk AI**  

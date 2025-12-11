@@ -1,10 +1,14 @@
-# Yujinwengs
 # Hi, I'm Yujin Wahing 👋  
-Gwapo | Bobo sa Programming | Learner
+Tech Enthusiast | Programmer | Learner  
 
-🌟 **Thanks AI.**  
+<div align="center">
+  <!-- Working animated boy at computer -->
+  <img src="https://i.imgur.com/ak3U9F9.gif" width="420" alt="boy playing computer animation"/>
+</div>
+
+🌟 **Grinding my way into tech.**  
 💡 Passionate about web development & mobile apps.
-<div align="center"> <!-- Animated boy playing computer --> <img src="https://i.imgur.com/6b6cJHc.gif" width="420" alt="boy playing computer animation"/> </div>
+
 ---
 
 ### 🚀 Socials
